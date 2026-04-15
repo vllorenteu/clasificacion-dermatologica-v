@@ -1,1 +1,1 @@
-
+Esta carpeta contiene las imágenes utilizadas para entrenar y testear el modelo
