@@ -1,1 +1,0 @@
-Esto representaría un documento con datos nuevos y distintos a lso de la rama principal.
