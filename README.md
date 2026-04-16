@@ -1,4 +1,4 @@
-# **Clasificación de Imagenes Dermatológicas para Detección de Melanoma**
+# **Clasificación de Imágenes Dermatológicas para Detección de Melanoma**
 
 ## **Descripción**
 
