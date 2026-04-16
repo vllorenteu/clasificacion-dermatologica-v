@@ -22,6 +22,21 @@ Este proyecto implementa un modelo de Aprendizaje Automático (ML o AA) para dif
     * Markdown: Documentación técnica del repositorio.
     * GitHub: Control del versiones.
 
++ *Estructura del proyecto*
+```text
+.
+├── data/               
+├── docs/              
+│   └── references/      
+├── models/            
+├── results/            
+├── src/                
+├── .gitignore          
+├── LICENSE             
+└── README.md           
+```
 ## **Autores**
 
 + Sara Guillén, Pablo Carballo, Vicente Llorente, Yanis Cruz y Víctor Pérez.
+
+
